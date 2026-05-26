@@ -4,6 +4,7 @@ Mein persönlicher Tagesplan (erstellt mit LibreOffice Writer)
 Verschiedene Dateitypes:
 
 .odt
+
 .pdf
 
 
