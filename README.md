@@ -1,14 +1,12 @@
 # Tagesplan (German)
 Mein persönlicher Tagesplan (erstellt mit LibreOffice Writer)<br>
 Verschiedene Dateitypen:<br>
-.odt<br>
-.pdf
+.odt
 
 # Daily Schedule (English)
 My Personal Daily Schedule (Created with LibreOffice Writer)<br>
 Different file types:<br>
-.odt<br>
-.pdf
+.odt
 
 ---
 
