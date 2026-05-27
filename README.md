@@ -1,12 +1,9 @@
 # Tagesplan (German)
-Mein persönlicher Tagesplan (erstellt mit LibreOffice Writer)<br>
-Verschiedene Dateitypen:<br>
-.odt
+Mein persönlicher Tagesplan (erstellt mit LibreOffice Writer)
+
 
 # Daily Schedule (English)
-My Personal Daily Schedule (Created with LibreOffice Writer)<br>
-Different file types:<br>
-.odt
+My Personal Daily Schedule (Created with LibreOffice Writer)
 
 ---
 
@@ -28,16 +25,17 @@ Different file types:<br>
 ### 🌌 Abend (Evening)
 | ZEIT | TÄTIGKEIT | BEMERKUNG |
 | :--- | :--- | :--- |
-| **19:30 Uhr** | 1. Medikamente nehmen | |
+| **19:30 Uhr** | 01. Medikamente nehmen | |
 | **19:35 Uhr** | Pause / Pufferzeit | |
-| **20:50 Uhr** | 2. Gruppenwäsche Waschen | |
-| **20:55 Uhr** | 3. Nachtmodus aktivieren | |
-| **21:00 Uhr** | 4. Schlafanzug anziehen | |
-| **21:05 Uhr** | 5. Wasser für nachts holen | |
-| **21:10 Uhr** | 6. Waschen (Nicht Duschen) | |
-| **21:25 Uhr** | 7. Zähne putzen | |
-| **22:29 Uhr** | 8. Gruppenwäsche in Trockner | |
-| **22:35 Uhr** | 9. Supplements einnehmen | |
+| **20:50 Uhr** | 02. Gruppenwäsche Waschen | |
+| **20:55 Uhr** | 03. Nachtmodus aktivieren | |
+| **21:00 Uhr** | 04. Waschen (Nicht Duschen) | |
+| **21:15 Uhr** | 05. Schlafanzug anziehen | |
+| **21:20 Uhr** | 06. Wasser für nachts holen | |
+| **21:25 Uhr** | 07. Zähne putzen | |
+| **21:30 Uhr** | 08. Wäsche vorbereiten | |
+| **22:29 Uhr** | 09. Gruppenwäsche in Trockner | |
+| **22:35 Uhr** | 10. Supplements einnehmen | |
 | **22:50 Uhr** | Abend abgeschlossen | |
 
 ### 💤 Nacht (Night)
