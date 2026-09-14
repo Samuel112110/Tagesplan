@@ -22,21 +22,31 @@ My Personal Daily Schedule (Created with LibreOffice Writer)
 | **09:35 Uhr** | 8. Gruppenwäsche falten | |
 | **11:00 Uhr** | Morgen abgeschlossen | |
 
+### ☀️ Nachmittag (Afternoon)
+| ZEIT | TÄTIGKEIT | BEMERKUNG |
+| :--- | :---| :--- |
+| **13:00 Uhr** | Spaziergang (1x täglich) | |
+| **14:00 Uhr** | Spaziergang (1x täglich) | |
+| **15:00 Uhr** | Spaziergang (1x täglich) | |
+| **16:00 Uhr** | Spaziergang (1x täglich) | |
+| **17:00 Uhr** | Spaziergang (1x täglich) | |
+
 ### 🌌 Abend (Evening)
 | ZEIT | TÄTIGKEIT | BEMERKUNG |
 | :--- | :--- | :--- |
-| **19:30 Uhr** | 01. Medikamente nehmen | |
+| **19:15 Uhr** | 01. Schwarzkümmel Öl nehmen  | |
+| **19:30 Uhr** | 02. Medikamente holen | |
 | **19:35 Uhr** | Pause / Pufferzeit | |
-| **20:50 Uhr** | 02. Gruppenwäsche Waschen | |
-| **20:55 Uhr** | 03. Nachtmodus aktivieren | |
-| **21:00 Uhr** | 04. Waschen (Nicht Duschen) | |
-| **21:15 Uhr** | 05. Schlafanzug anziehen | |
-| **21:20 Uhr** | 06. Wasser für nachts holen | |
-| **21:25 Uhr** | 07. Zähne putzen | |
-| **21:30 Uhr** | 08. Wäsche vorbereiten | |
-| **22:29 Uhr** | 09. Gruppenwäsche in Trockner | |
-| **22:35 Uhr** | 10. Supplements einnehmen | |
-| **22:50 Uhr** | Abend abgeschlossen | |
+| **20:10 Uhr** | 03. Gruppenwäsche Waschen | |
+| **20:15 Uhr** | 04. Nachtmodus aktivieren | |
+| **20:20 Uhr** | 05. Wäsche vorbereiten | |
+| **20:25 Uhr** | 06. Waschen (Nicht Duschen) | |
+| **20:40 Uhr** | 07. Schlafanzug anziehen | |
+| **20:45 Uhr** | 08. Wasser für nachts holen | |
+| **21:00 Uhr** | 09. Zähne putzen | |
+| **22:09 Uhr** | 10. Gruppenwäsche in Trockner | |
+| **22:15 Uhr** | 11. Supplements einnehmen | |
+| **22:30 Uhr** | Abend abgeschlossen | |
 
 ### 💤 Nacht (Night)
 | ZEIT | TÄTIGKEIT | BEMERKUNG |
