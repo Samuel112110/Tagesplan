@@ -12,14 +12,14 @@ My Personal Daily Schedule (Created with LibreOffice Writer)
 ### 🌅 Morgen (Morning)
 | ZEIT | TÄTIGKEIT | BEMERKUNG |
 | :--- | :--- | :--- |
-| **08:30 Uhr** | 1. Aufstehen | |
-| **08:35 Uhr** | 2. Supplements nehmen | |
-| **08:40 Uhr** | 3. Zähne putzen | |
-| **08:50 Uhr** | 4. Duschen | |
-| **09:35 Uhr** | 5. Alltagskleidung anziehen | |
-| **09:45 Uhr** | 6. Spazieren gehen | |
-| **10:15 Uhr** | 7. Frühstücken | |
-| **10:25 Uhr** | 8. Gruppenwäsche falten | |
+| **07:20 Uhr** | 1. Aufstehen | |
+| **07:25 Uhr** | 2. Supplements nehmen | |
+| **07:35 Uhr** | 3. Duschen | |
+| **08:25 Uhr** | 4. Alltagskleidung anziehen | |
+| **08:40 Uhr** | 5. Kokos Öl ziehen | |
+| **08:55 Uhr** | 6. Zähne putzen | |
+| **09:05 Uhr** | 7. Spazieren gehen | |
+| **09:35 Uhr** | 8. Gruppenwäsche falten | |
 | **11:00 Uhr** | Morgen abgeschlossen | |
 
 ### 🌌 Abend (Evening)
